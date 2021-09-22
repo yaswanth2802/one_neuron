@@ -1,0 +1,2 @@
+# one_neuron
+perseptron
